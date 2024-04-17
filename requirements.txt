@@ -3,5 +3,6 @@ langchain
 InstructorEmbedding
 sentence-transformers
 langchain-google-genai
+--use-pep517
 dotenv
 transformers
