@@ -1,6 +1,7 @@
 google-generativeai
 langchain
 langchain-google-genai
+sentence-transformers==2.2.2
 InstructorEmbedding
 python-dotenv
 streamlit
