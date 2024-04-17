@@ -7,6 +7,6 @@ torch
 torchvision 
 torchaudio
 InstructorEmbedding
-sentence_transformers=2.2.2
+sentence_transformers==2.2.2
 langchain-google-genai
 dotenv
