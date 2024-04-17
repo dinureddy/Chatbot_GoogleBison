@@ -4,3 +4,4 @@ InstructorEmbedding
 sentence-transformers
 langchain-google-genai
 transformers
+streamlit
