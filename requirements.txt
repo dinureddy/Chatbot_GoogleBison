@@ -2,7 +2,10 @@ streamlit
 transformers
 google-generativeai
 langchain
-torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+--index-url https://download.pytorch.org/whl/cpu
+torch 
+torchvision 
+torchaudio
 InstructorEmbedding
 sentence_transformers=2.2.2
 langchain-google-genai
