@@ -4,4 +4,5 @@ InstructorEmbedding
 sentence-transformers
 langchain-google-genai
 transformers
+python-dotenv
 streamlit
