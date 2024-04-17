@@ -178,9 +178,7 @@ webencodings==0.5.1
 websocket-client @ file:///home/builder/ci_310/websocket-client_1640795866898/work
 widgetsnbextension @ file:///croot/widgetsnbextension_1709322880396/work
 yarl==1.9.4
---find-links https://download.pytorch.org/whl/torch_stable.html
-torch==2.2.2+cpu
---find-links https://download.pytorch.org/whl/torch_stable.html
-torchaudio==2.2.2+cpu
---find-links https://download.pytorch.org/whl/torch_stable.html
-torchvision==0.17.2+cpu
+--index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision
+torchaudio
