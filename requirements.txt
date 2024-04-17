@@ -3,5 +3,6 @@ langchain
 langchain-google-genai
 sentence-transformers==2.2.2
 InstructorEmbedding
+faiss-cpu
 python-dotenv
 streamlit
