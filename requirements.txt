@@ -2,3 +2,6 @@ google-generativeai
 langchain
 InstructorEmbedding
 sentence-transformers
+langchain-google-genai
+dotenv
+transformers
