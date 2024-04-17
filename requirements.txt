@@ -1,5 +1,6 @@
 google-generativeai
 langchain
 langchain-google-genai
+InstructorEmbedding
 python-dotenv
 streamlit
